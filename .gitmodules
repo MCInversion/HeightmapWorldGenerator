@@ -1,0 +1,6 @@
+[submodule "third_party/zlib"]
+	path = third_party/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "third_party/laszip"]
+	path = third_party/laszip
+	url = https://github.com/LASzip/LASzip.git
